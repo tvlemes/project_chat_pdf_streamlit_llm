@@ -49,7 +49,7 @@ A estrutura física contém o arquivo <b>main.py</b> que é o arquivo da estrutu
 
 O arquivo <b>streamlit.py</b> contém a estrura da página Web para interação.
 
-No arquivo requirements.txt são as dependências do projeto, as bibliotecas.
+No arquivo <b>requirements.txt</b> são as dependências do projeto, as bibliotecas.
 
 Para que o projeto possa rodar é preciso renomear o arquivo <b>.env_example</b> para <b>.env</b> e inserir as chaves nele descrito.
 
