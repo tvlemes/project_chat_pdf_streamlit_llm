@@ -1,6 +1,6 @@
 # Projeto Chat com Hugging Face
 
-<img src="https://github.com/tvlemes/project_database_openai/blob/main/docs/print.PNG"> 
+<img src="https://github.com/tvlemes/project_chat_pdf_streamlit_llm/blob/main/docs/print.PNG"> 
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
