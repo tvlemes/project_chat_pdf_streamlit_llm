@@ -1,6 +1,7 @@
 """
 App Chat com LLM, HuggingFace e Streamlit
 Autor: Thiago Vilarinho Lemes
+e-mail: contatothiagolemes@gmail.com
 Data: 16/04/2024
 
 OBS.: Não foi utilizado o Pinecone devido a instabilidade
