@@ -58,7 +58,7 @@ Para que o projeto possa rodar é preciso renomear o arquivo <b>.env_example</b>
 
 Para rodar o projeto dentro do diretório raiz no prompt digite:
 ```
-streamlit run streamlit.py
+streamlit run app.py
 ``` 
 <!-- sobre -->
 ## Sobre
